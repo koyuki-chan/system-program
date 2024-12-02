@@ -54,3 +54,6 @@ Set the driver file the filename is **ko**
 then cd to `nfs`   
 `./helloworld_user`   
 
+# Remove device
+`umount /mnt/nfs`
+
