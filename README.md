@@ -55,5 +55,6 @@ then cd to `nfs`
 `./helloworld_user`   
 
 # Remove device
-`umount /mnt/nfs`
+`rm /dev/helloworld`    
+`rmmod helloworld_driver`   
 
